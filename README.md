@@ -5,9 +5,9 @@
 ## Step 1: Track-Specific Video  
 This is your opportunity to showcase your skills and passion related to the industry track you applied for. For this step, we ask you to record a track-specific video as per the instructions outlined below:  
 
-- Data Track: Please complete the problem found here and record a video where you explain your solution, the process you followed, and how you approached the problem.
+- Data Track: Please complete the problem found [here](https://leetcode.com/problems/department-top-three-salaries/) and record a video where you explain your solution, the process you followed, and how you approached the problem.
 
-- Software Engineering (SWE) Track: Solve the following coding problems one and two. Record a video explaining your solutions and your thought process behind them.
+- Software Engineering (SWE) Track: Solve the following coding problems [one](https://leetcode.com/problems/two-sum/) and [two](https://leetcode.com/problems/palindrome-number/). Record a video explaining your solutions and your thought process behind them.
 
 - Design/Web Tracks: Record a video walking us through your portfolio or a project that showcases your skills. Explain how you approached the design or web development process and your unique contributions to the project.
 

@@ -27,19 +27,19 @@
 // -109 <= target <= 109
 // Only one valid answer exists.
 
-function twoSum(nums, target) {
-    for (let i = 0; i < nums.length; i++) {
-        for (let j = i + 1; j < nums.length; j++) {
-            if (nums[i] + nums[j] == target) {
-                return [i, j];
-            }
-        }
-    }
-}
+// function twoSum(nums, target) {
+//     for (let i = 0; i < nums.length; i++) {
+//         for (let j = i + 1; j < nums.length; j++) {
+//             if (nums[i] + nums[j] == target) {
+//                 return [i, j];
+//             }
+//         }
+//     }
+// }
 
-console.log(twoSum([2, 7, 11, 15], 9)); //=> [0,1]
-console.log(twoSum([3, 2, 4], 6)); //=> [1,2]
-console.log(twoSum([3, 3], 6)); //=> [0,1]
+// console.log(twoSum([2, 7, 11, 15], 9)); //=> [0,1]
+// console.log(twoSum([3, 2, 4], 6)); //=> [1,2]
+// console.log(twoSum([3, 3], 6)); //=> [0,1]
 
 // 2. Palindrome Number
 // Given an integer x, return true if x is a
@@ -66,4 +66,38 @@ console.log(twoSum([3, 3], 6)); //=> [0,1]
 
 // -231 <= x <= 231 - 1
 
-var isPalindrome = function (x) {};
+// function isPalindrome(num) {
+//     // convert to string
+//     numStr = num.toString();
+//     console.log(numStr);
+//     // create a character array
+//     numSpt = numStr.split('');
+//     console.log(numSpt);
+//     // reverse it
+//     numRev = numSpt.reverse();
+//     console.log(numRev);
+//     // join in back to a string
+//     numJnt = numRev.join('');
+//     console.log(numJnt);
+//     // use conditional with 'loose equality' or two equal signs which performs type coercion before making any comparison
+//     if (num == numJnt) {
+//         // results of logic
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+// console.log(isPalindrome(121)); //=> true
+// console.log(isPalindrome(-121)); //=> false
+// console.log(isPalindrome(10)); //=> false
+
+// Another solution
+
+// function isPalindrome(num) {
+//     // method chaining with loose equality
+//     return num == num.toString().split('').reverse().join('');
+// }
+
+// console.log(isPalindrome(121)); //=> true
+// console.log(isPalindrome(-121)); //=> false
+// console.log(isPalindrome(10)); //=> false
