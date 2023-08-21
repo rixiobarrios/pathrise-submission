@@ -23,7 +23,7 @@ For both videos, use a recording service of your choice, such as Loom, Zoom, or 
 
 After recording, upload it to a video hosting platform like YouTube, Vimeo, or Google Drive. Please ensure the video settings allow us to view it (public or shared with a link) but make sure it is an unlisted video (i.e., cannot be searched - the direct link has to be shared).
 
-Once your videos are uploaded, fill out the form below and hit “submit”. 
+Once your videos are uploaded, fill out the form [here](https://www.admissions.pathrise.com/fellow-video-submission) and hit “submit”. 
 
 Put your track-specific video in the “Track-Specific Video” field and your general video in the “General Video” field.
 
